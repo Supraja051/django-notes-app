@@ -1,0 +1,17 @@
+# Ignore MySQL data
+data/
+mysql/
+db/
+
+# Git & Jenkins
+.git
+.gitignore
+@tmp
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Env files
+.env
+
